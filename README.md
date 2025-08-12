@@ -1,4 +1,4 @@
-# Exploración y Predicción de la Incidencia Delictiva en la CDMX (2015-2025)
+# Análisis Espacio-Temporal de la Incidencia Delictiva en la CDMX (2015-2025)
 
 ![uami](./figuras/uami.png)
 
