@@ -15,10 +15,35 @@ Alan Badillo Salas (cbi2242800355@xanum.uam.mx)
 >
 > Profesor: Dr. Juan Alberto Martínez Cadena
 
-## Introducción
-
-En este proyecto se hará un análisis exploratorio mediante reportes de concentrados y visualización de datos, para modelar patrones de delitos registrados en la Ciudad de México entre 2015 y 2025, enfocados en la evolución temporal, distribución geográfica por alcaldía y predicción futura de incidentes delictivos seleccionados.
-
-El conjunto de datos estudiado contiene registros mensuales de incidencia delictiva en la CDMX, desagregados por año, municipio (alcaldía), tipo de delito, subtipo y modalidad. 
-
-Este *dataset* es apto estudiar la evolución de la violencia urbana y evaluar el impacto de eventos críticos como la pandemia por COVID-19.
+![1](diapositivas/1.png)
+![2](diapositivas/2.png)
+![3](diapositivas/3.png)
+![4](diapositivas/4.png)
+![5](diapositivas/5.png)
+![6](diapositivas/6.png)
+![7](diapositivas/7.png)
+![8](diapositivas/8.png)
+![9](diapositivas/9.png)
+![10](diapositivas/10.png)
+![11](diapositivas/11.png)
+![12](diapositivas/12.png)
+![13](diapositivas/13.png)
+![14](diapositivas/14.png)
+![15](diapositivas/15.png)
+![16](diapositivas/16.png)
+![17](diapositivas/17.png)
+![18](diapositivas/18.png)
+![19](diapositivas/19.png)
+![20](diapositivas/20.png)
+![21](diapositivas/21.png)
+![22](diapositivas/22.png)
+![23](diapositivas/23.png)
+![24](diapositivas/24.png)
+![25](diapositivas/25.png)
+![26](diapositivas/26.png)
+![27](diapositivas/27.png)
+![28](diapositivas/28.png)
+![29](diapositivas/29.png)
+![30](diapositivas/30.png)
+![31](diapositivas/31.png)
+![32](diapositivas/32.png)
